@@ -10,6 +10,6 @@ public class SimpleClassTest {
     @Test
     public void addition() {
         SimpleClass sc = new SimpleClass();
-        assertEquals(5, sc.addition(2, 2));
+        assertEquals(4, sc.addition(2, 2));
     }
 }
